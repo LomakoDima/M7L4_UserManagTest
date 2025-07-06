@@ -1,3 +1,4 @@
+# registration.py
 import sqlite3
 
 DB_NAME = 'users.db'
